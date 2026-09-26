@@ -1,0 +1,27 @@
+{
+  "app": {
+    "name": "LiteGH",
+    "version": "1.0.0",
+    "description": "A lightweight GitHub repository browser."
+  },
+  "github": {
+    "owner": "litegh",
+    "repo": "litegh",
+    "branch": "main",
+    "website": "https://litegh.com"
+  },
+  "ui": {
+    "theme": "github-light",
+    "treeWidth": 280,
+    "treeMinWidth": 200,
+    "treeMaxWidth": 400,
+  },
+  "features": {
+    "markdown": true,
+    "images": true,
+    "pdf": true,
+    "filter": true,
+    "keyboard": true,
+    "breadcrumbs": true
+  }
+}
